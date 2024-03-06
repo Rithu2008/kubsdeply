@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: Rithu2008/kubsdeply:latest
+        image: rithu2008/kubsdeply:latest
         ports:
         - containerPort: 3000
         
