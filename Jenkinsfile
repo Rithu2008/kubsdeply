@@ -11,7 +11,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/naga1979/kubsdeply.git'
+        git 'https://github.com/Rithu2008/kubsdeply.git'
       }
     }
 
