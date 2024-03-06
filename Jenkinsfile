@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "Rithu2008/kubsdeply"
+    dockerimagename = "rithu2008/kubsdeply"
     dockerImage = ""
   }
 
